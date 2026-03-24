@@ -1,25 +1,29 @@
-# 📝 Todo App
+# Todo App
 
-A clean and minimal Todo application built using React and Vite.
-This project allows users to manage daily tasks efficiently with a simple and responsive UI.
+This is a simple Todo application built using React and Vite.
+It allows users to add, complete, and delete tasks with a clean and responsive interface.
 
-## 🚀 Live Demo
-
-👉 https://todo-app-pi-sand-27.vercel.app
+Live Demo: https://todo-app-pi-sand-27.vercel.app
 
 ---
 
-## ✨ Features
+## Overview
 
-* ➕ Add new tasks
-* ✅ Mark tasks as completed
-* ❌ Delete tasks
-* ⚡ Instant UI updates
-* 📱 Responsive design
+The goal of this project was to practice component-based architecture in React and handle basic state management for a real-world use case.
 
 ---
 
-## 🛠️ Tech Stack
+## Features
+
+* Add new tasks
+* Mark tasks as completed
+* Delete tasks
+* Instant UI updates
+* Responsive layout
+
+---
+
+## Tech Stack
 
 * React
 * Vite
@@ -28,7 +32,7 @@ This project allows users to manage daily tasks efficiently with a simple and re
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 src/
@@ -42,17 +46,12 @@ src/
 
 ---
 
-## ⚙️ Installation & Setup
+## Setup
 
 Clone the repository:
 
 ```
 git clone https://github.com/your-username/todo-app.git
-```
-
-Go to project folder:
-
-```
 cd todo-app
 ```
 
@@ -62,7 +61,7 @@ Install dependencies:
 npm install
 ```
 
-Run locally:
+Run the app:
 
 ```
 npm run dev
@@ -70,21 +69,16 @@ npm run dev
 
 ---
 
-## 📌 Future Improvements
+## Improvements planned
 
 * Edit task functionality
 * Filter (All / Completed / Pending)
-* LocalStorage integration
-* Dark mode
+* Local storage support
+* UI improvements
 
 ---
 
-## 🙌 Acknowledgement
+## Author
 
-This project was built as part of learning and improving frontend development skills.
-
----
-
-## 📧 Contact
-
-If you have any feedback, feel free to connect.
+Ritik Rajput
+https://github.com/ritikrajput12
